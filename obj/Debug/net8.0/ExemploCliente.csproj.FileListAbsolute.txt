@@ -1,0 +1,14 @@
+C:\Users\2023202060022\Downloads\ExemploCliente\obj\Debug\net8.0\ExemploCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060022\Downloads\ExemploCliente\obj\Debug\net8.0\ExemploCliente.AssemblyInfoInputs.cache
+C:\Users\2023202060022\Downloads\ExemploCliente\obj\Debug\net8.0\ExemploCliente.AssemblyInfo.cs
+C:\Users\2023202060022\Downloads\ExemploCliente\obj\Debug\net8.0\ExemploCliente.csproj.CoreCompileInputs.cache
+C:\Users\2023202060022\Downloads\ExemploCliente\bin\Debug\net8.0\ExemploCliente.exe
+C:\Users\2023202060022\Downloads\ExemploCliente\bin\Debug\net8.0\ExemploCliente.deps.json
+C:\Users\2023202060022\Downloads\ExemploCliente\bin\Debug\net8.0\ExemploCliente.runtimeconfig.json
+C:\Users\2023202060022\Downloads\ExemploCliente\bin\Debug\net8.0\ExemploCliente.dll
+C:\Users\2023202060022\Downloads\ExemploCliente\bin\Debug\net8.0\ExemploCliente.pdb
+C:\Users\2023202060022\Downloads\ExemploCliente\obj\Debug\net8.0\ExemploCliente.dll
+C:\Users\2023202060022\Downloads\ExemploCliente\obj\Debug\net8.0\refint\ExemploCliente.dll
+C:\Users\2023202060022\Downloads\ExemploCliente\obj\Debug\net8.0\ExemploCliente.pdb
+C:\Users\2023202060022\Downloads\ExemploCliente\obj\Debug\net8.0\ExemploCliente.genruntimeconfig.cache
+C:\Users\2023202060022\Downloads\ExemploCliente\obj\Debug\net8.0\ref\ExemploCliente.dll
